@@ -2,7 +2,7 @@
 
 > 状态: Draft  
 > 负责人: evan.guo  
-> Reviewers: 待确认  
+> 更新时间: 2026-03-18  
 > PRD: [agent-tracing-system-prd.md](../prd/agent-tracing-system-prd.md)  
 
 ---

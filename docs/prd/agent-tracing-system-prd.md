@@ -1,7 +1,7 @@
 # 🧩 PRD: Agent 执行链路追踪系统
 
 > 状态: Draft  
-> 负责人: 待确认  
+> 负责人: evan.guo  
 > 更新时间: 2026-03-18  
 > Design: [agent-tracing-system-design.md](../design/agent-tracing-system-design.md) 
 ---
