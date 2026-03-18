@@ -3,7 +3,7 @@
 > 状态: Draft  
 > 负责人: evan.guo  
 > Reviewers: 待确认  
-> 关联 PRD: ../prd/agent-tracing-system-prd.md  
+> PRD: [agent-tracing-system-prd.md](../prd/agent-tracing-system-prd.md)  
 
 ---
 

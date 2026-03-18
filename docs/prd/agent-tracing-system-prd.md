@@ -3,7 +3,7 @@
 > 状态: Draft  
 > 负责人: 待确认  
 > 更新时间: 2026-03-18  
-
+> Design: [agent-tracing-system-design.md](../design/agent-tracing-system-design.md) 
 ---
 
 ## 📌 1. 背景（Background）
@@ -368,11 +368,5 @@
 ## 🔗 附录（Optional）
 
 - 相关文档：
-  - HLD链接：`/Users/guochenguang/project/tracing-ai/agent-tracing-design.md`
-  - LLD链接：待确认
 
 - 参考资料：
-  - 原始需求草稿：`/Users/guochenguang/project/tracing-ai/agent-tracing-prd.md`
-  - OpenTelemetry 与 OpenSearch 相关实现资料：见设计文档中的参考链接
-
----
